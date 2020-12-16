@@ -8,3 +8,5 @@ node app.js
 ```
 
 访问: http://localhost:3000
+
+![效果](./images/r.png)
