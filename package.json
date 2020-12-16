@@ -1,0 +1,18 @@
+{
+  "name": "hk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Arivin <btc022003@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "images": "^3.2.3",
+    "svg2png": "^4.1.1",
+    "text-to-svg": "^3.1.5"
+  }
+}
